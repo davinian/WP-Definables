@@ -31,7 +31,7 @@ define('AWESOME_WUNDERGROUND_KEY', 'wundergroun_key');
  * License for Gravity Forms 
  * URL: https://gravityforms.com
  **/
- define(‘GF_LICENSE_KEY’,'gravity_forms_license_key’);
+ define('GF_LICENSE_KEY','gravity_forms_license_key');
 
 /** 
  * WordPress Stuff
