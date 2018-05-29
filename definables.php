@@ -83,4 +83,11 @@ require_once(ABSPATH . 'wp-settings.php');
  **/
 define( 'AUTOSAVE_INTERVAL', 160 ); // Seconds
 
+/**
+ * Set Akismet Key for Multisite Network
+ * Key can be found at https://akismet.com/account
+ **/
+define('WPCOM_API_KEY','your-key');
+
+
         
