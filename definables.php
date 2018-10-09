@@ -33,6 +33,13 @@ define('AWESOME_WUNDERGROUND_KEY', 'wundergroun_key');
  **/
  define('GF_LICENSE_KEY','gravity_forms_license_key');
 
+/**
+ * Contact Form 7
+ * Contact Form 7 4.4 introduced a Configuration Validator
+ * You can disable the configuration validator by adding to your wp-config.php
+ **/
+define( 'WPCF7_VALIDATE_CONFIGURATION', false );
+
 /** 
  * WordPress Stuff
  * Moving wp-content folder
