@@ -1,5 +1,3 @@
-<?php
-
 /**
  * 
  * List of definable options for wp-config file
